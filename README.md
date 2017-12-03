@@ -16,7 +16,7 @@ For now, here two example links to pages:
 * #45 [December](/Stammtisch/2017-12.html)
 * #44 [October](/Stammtisch/2017-10.html)
 * #43 [August](/Stammtisch/2017-08.html)
-* #42 [July](/Stammtisch/2017-0[.html)
+* #42 [July](/Stammtisch/2017-07.html)
 * #41 [May](/Stammtisch/2017-05.html)
 * #40 [April](/Stammtisch/2017-04.html)
 * #39 [May](/Stammtisch/2017-03.html)
