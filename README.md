@@ -79,8 +79,11 @@ by hand.
 * #7 [April](/Stammtisch/2014-04.html)
 * #6 [March](/Stammtisch/2014-03.html)
 * #5 [February](/Stammtisch/2014-02.html)
-* ?
 
 # 2013
 
-* ?
+* #4 December
+* #3 October
+* #2 August
+* #1 [January](/Stammtisch/2013-01.html)
+
