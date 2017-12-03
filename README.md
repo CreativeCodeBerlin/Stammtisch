@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Creative Code Stammtisch
 
-You can use the [editor on GitHub](https://github.com/CreativeCodeBerlin/Stammtisch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Meetups about creative coding every first friday of the month.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Meta
 
-### Markdown
+Why this page? We are using Paper to document our meetups collaboratively in real time.
+The issue is that we have 4 years of meetups in one looooong page, which has become unusably slow.
+What we are testing here is, if we can use Paper to document only the current meetup, and then move the content to GitHub, when the real time aspect is no longer necessary, but still anyone can make changes to it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We need help with Jekyll to make an automatic list of pages or posts. What's the ideal structure for the data?
+For now, here two example links to pages:
 
-```markdown
-Syntax highlighted code block
+# 2017
 
-# Header 1
-## Header 2
-### Header 3
+[June](/Stammtisch/2017-06.html) |
+[July](/Stammtisch/2017-07.html)
 
-- Bulleted
-- List
+# 2016
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CreativeCodeBerlin/Stammtisch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[June](/Stammtisch/2016-06.html) |
+[July](/Stammtisch/2016-07.html)
