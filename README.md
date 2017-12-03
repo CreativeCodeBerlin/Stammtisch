@@ -1,6 +1,14 @@
 ## Creative Code Stammtisch
 
-Meetups about creative coding every first friday of the month.
+The Creative Code Stammtisch is a monthly open conversation between artists, makers, designers, coders, performers, learners and anyone interested in the use of computing skills for artistic expression. There is usually a time for people to present something if they want to, followed by informal discussions. The event is free and open to all, regardless of age, gender or experience. Beginners and first-timers should feel especially welcome.
+
+Follow us on Twitter: [@CreativeCodeBLN](https://twitter.com/creativecodebln)
+Subscribe to our [Mailing list / forum](https://groups.google.com/forum/#!forum/creativecodeberlin)
+Read the [l](https://docs.google.com/spreadsheets/d/1KOs798BIPlr1qzsn9HFky52wuW7PgzUaV9NM79Guk3o)[ist of previous events](https://docs.google.com/spreadsheets/d/1KOs798BIPlr1qzsn9HFky52wuW7PgzUaV9NM79Guk3o)
+
+# Short link to the latest Stammtisch document: http://tinyurl.com/creativecodeberlin
+
+Short link to the jam document: **http://tinyurl.com/creativecodejam**
 
 ## Meta
 
