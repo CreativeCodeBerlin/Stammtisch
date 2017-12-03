@@ -16,8 +16,12 @@ Why this page? We are using Paper to document our meetups collaboratively in rea
 The issue is that we have 4 years of meetups in one looooong page, which has become unusably slow.
 What we are testing here is, if we can use Paper to document only the current meetup, and then move the content to GitHub, when the real time aspect is no longer necessary, but still anyone can make changes to it.
 
-We need help with Jekyll to make an automatic list of pages or posts. What's the ideal structure for the data?
-For now, here two example links to pages:
+We need help with Jekyll to make an automatic list of pages or posts. What's the
+ideal structure for the data? The Creative-Code-Stammtisch.md file is exported
+directly from Paper. I should make a python script to split that file
+automatically into all the monthly markdown files. It should also automatically
+create links for URLs, and maybe do some other clean up. So far Abe did this
+by hand.
 
 # 2017
 
