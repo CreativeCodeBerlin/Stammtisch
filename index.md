@@ -32,5 +32,5 @@ View this page at [https://creativecodeberlin.github.io/Stammtisch/](https://cre
 
 # {{ currentdate }} 
 {% assign date = currentdate %} {% endif %}
-* [{{ post.date | date: "%B" }} - {{post.title}} ]({{post.url}}) {% endfor %}
+* [{{ post.date | date: "%B" }} - {{post.title}} ]({{ post.url | remove_first:'/'}}) {% endfor %}
 
