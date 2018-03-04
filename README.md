@@ -26,7 +26,7 @@ automatically into all the monthly markdown files. It should also automatically
 create links for URLs, and maybe do some other clean up. So far Abe did this
 by hand.
 
-View this page at https://creativecodeberlin.github.io/Stammtisch/ so the following links are correct.
+View this page at [https://creativecodeberlin.github.io/Stammtisch/](https://creativecodeberlin.github.io/Stammtisch/) so the following links are correct.
 
 # 2017
 
