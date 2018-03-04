@@ -4,12 +4,124 @@ The Creative Code Stammtisch is a monthly open conversation between artists, mak
 Follow us on Twitter: [@CreativeCodeBLN](https://twitter.com/creativecodebln)
 Subscribe to our [Mailing list / forum](https://groups.google.com/forum/#!forum/creativecodeberlin)
 Read the [l](https://docs.google.com/spreadsheets/d/1KOs798BIPlr1qzsn9HFky52wuW7PgzUaV9NM79Guk3o)[ist of previous events](https://docs.google.com/spreadsheets/d/1KOs798BIPlr1qzsn9HFky52wuW7PgzUaV9NM79Guk3o)
+Join our [chat here](https://chat.funprogramming.org/signup_user_complete/?id=3fbmhbdf57ns38erurx3deax9h)! There’s an app for it too.
 
+wifi pwd: clubmate, ssid: co_up or co_up_slow
 
 # Short link to this document: http://tinyurl.com/creativecodeberlin
 
-Short link to the jam document: **http://tinyurl.com/creativecodejam**
+Short link to the Jam document: **http://tinyurl.com/creativecodejam**
 
+# March **2nd, Stammtisch #47**
+
+January 31st 2013 was our [first meetup.](https://docs.google.com/spreadsheets/d/1KOs798BIPlr1qzsn9HFky52wuW7PgzUaV9NM79Guk3o/edit#gid=1)
+
+**Diana**
+<http://replica.institute> institute for creative anticipation and performing arts. Coming performance on the 14th of March in Liebig12.
+Facebook group: <https://www.facebook.com/replica.institute/>
+
+**Mike**
+<http://lazerwalker.com>
+Mike makes games that use real props to physically connect people to the past.
+
+Hello operator: A time management game where you play the role of a switchboard operator from the 1920’s.
+<http://lazerwalker.com/hellooperator.html>
+
+What Hath God Wrought?: “a series of small games about the telegraph and its cultural and sociological impact in the 19th century.”
+<http://lazerwalker.com/telegraph.html>
+
+Mike mentions *Wired Love A Romance of Dots and Dashes*, a 1879 love story about two telegraph operators: <https://archive.org/stream/wiredlovearomanc24353gut/24353.txt>
+
+
+**Chris**
+“I have developed a system that allow to put video on audio cassettes. They’re called *video cassettes!*”
+<https://amplifoxed.com/oneday/>
+<https://vimeo.com/253476611>
+
+
+How to let users collectively design an EP cover while avoiding illegal/problematic content.
+
+**Olivier**
+is part of the band: <https://jptr.band/music>
+Looking to do some kind of crowdsourced visuals for their upcoming song.
+People share expamples:
+r/place: [https://youtu.be/XnRCZK3KjUY](https://youtu.be/XnRCZK3KjUY)
+Checkboxfield: http://sjefvanbeers.nl/checkboxes
+Bicycle Built for Two Thousand: [https://vimeo.com/3571124](https://vimeo.com/3571124)
+The Johnny Cash Project: http://www.thejohnnycashproject.com
+Do Not Touch by Studio Moniker: [https://vimeo.com/89406118](https://vimeo.com/89406118)
+
+--*Break--*
+
+**Stef & Javier**
+[Aero One app](https://itunes.apple.com/app/aero-one/id1322505567) which can be found in the app store. It’s an AR app to play sound emitting objects placed in the space. They also show a video of an experiment in which two phone’s location’s are shared in real time between the two devices.
+https://medium.com/neeeu/why-mobile-ar-matters-4c47ac7bd64d
+
+**Rachel**
+School of Ma’s upcoming classes:
+http://schoolofma.org/ecoacoustics/
+http://schoolofma.org/autonomous-generative-spirit/
+“You don’t want to be talking about roses all the time because fuck right?”
+“This is the school where you think critically about technology”
+Olivier mentions the fakeness of AR “what kind of fake things can you create?”
+Cédric: Digital matter. Isn’t an AR object real?
+Javier: AR is just a tool. It’s like woodcut.
+Diana: making things that are not visible visible. What is not visible?
+What about other kinds of feedbacks and augmentations?
+Regis: shoulderpads that make you twitch every time you’re in view of a surveillance camera
+Florence: [Subpac](https://www.youtube.com/watch?v=wHeKRsagTZc) used by MLF in the eye of the animal
+Meredith: https://teslasuit.io/
+Florence: Choy Ka Fai, “Prospectus for a Future Body” https://vimeo.com/61166018
+Rachel: https://www.meetup.com/EnthusiastiCon/
+http://creativetimereports.org/2013/05/20/disarm-transforming-guns-into-art-from-mexico-to-the-united-states/
+Marie: [online only] I feel like I’m there. Well, I feel like a creative code ghost but it feels good. Thanks note takers!
+
+
+# **February 2nd, Stammtisch #46**
+
+Back in co.up
+
+**Costanze**
+Shows her experiments on machine learning to generate rhythms. She trains a neural network with 1400 midi files to generate new music that is later played in Ableton Live.
+
+**Saskia Freeke**
+She started to create generative art in 2015-01-01. She’s posted 1129 results so far. She followed Joshua Davis’ Skillshare course. In the Bachelor she learned Processing. She was initially creating designs and loops with no coding. She was scared of showing the work online, thinking it’s not good enough. She was telling her students to experiment and play.
+She started with Hexel and Illustrator, then Processing, Hype, OpenFrameworks, p5.js. 
+http://sasj.tumblr.com // http://ello.co/sasj // [@sasj_nl](http://twitter.com/sasj_nl)
+
+**Abe**
+Shows some sound reactive shader programs.
+https://www.shadertoy.com/view/XljBR3
+https://www.shadertoy.com/view/XtjfD3
+Also shows experiments changing the Processing default shaders: https://twitter.com/hamoid/status/957577626297741312
+[https://twitter.com/hamoid/status/957301087798812672](https://twitter.com/hamoid/status/957301087798812672)
+
+**Rachel**
+Presents coming courses for the School of Machines https://schoolofma.org The first one is Ecoacoustics. http://schoolofma.org/ecoacoustics/
+// Abe recommends [Antifragile](https://en.wikipedia.org/wiki/Antifragile) by Nassim Taleb
+// Raph recommends Joscha Bach’s talks at CCC
+
+- [From Computation to Consciousness](https://media.ccc.de/v/31c3_-_6573_-_en_-_saal_2_-_201412281130_-_from_computation_to_consciousness_-_joscha) (2014)
+- [Computational Meta-Psychology](https://media.ccc.de/v/32c3-7483-computational_meta-psychology) (2015)
+- [Machine Dreams](https://media.ccc.de/v/33c3-8369-machine_dreams#t=304) (2016)
+
+// Merlin recommends https://berlin.stillpointspaces.com/
+
+// Rachel: https://mundraub.org/
+
+// Merlin recommends: http://agoracollective.org/ & http://www.iamhungry.online/
+
+**Trang**
+Is taking over organising a creative meetup called Glug Berlin: http://www.glugevents.com/
+Started Processing a month ago and making one sketch a day: https://www.instagram.com/nmtrang29/
+
+// Abe mentions [Urban Nation](https://urban-nation.com/) street art museum
+
+// Rachel mentions
+https://2018.transmediale.de/
+[Heather Dewey-Hagborg](http://deweyhagborg.com/) shows a [collection of masks generated from the DNA of Chelsey Manning](http://deweyhagborg.com/projects/probably-chelsea)
+https://2018.transmediale.de/program/artwork/finding-fanon
+[https://vimeo.com/138951543](https://vimeo.com/138951543)
 
 # **December 1st, Stammtisch #45**
 
