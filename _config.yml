@@ -14,3 +14,7 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+kramdown:
+  input: GFM
+  hard_wrap: true
+
