@@ -13,11 +13,11 @@ How to update this page:
 2. Open the downloaded file, cut the content that matches one month, and paste
    it as a new file with this name format: `_posts/YYYY-MM-DD-ccsNNN.md`.
 3. At the top of that file, add a header like this:
-
-    ---
-    img: "NNN.jpg"
-    ---
-
+```
+---
+img: "NNN.jpg"
+---
+```
 4. Save a poster jpg image (max 600x600) to `assets/img/large/NNN.jpg`
 5. Save a thumbnail (160x160 85% quality) to `assets/img/small/NNN.jpg`
 6. Git: `commit` those 3 files then `push`.
