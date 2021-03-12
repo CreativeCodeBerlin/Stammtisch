@@ -1,7 +1,7 @@
 title: Creative Code Stammtisch
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Creative Code Stammtisch is a monthly open conversation between artists, 
+  A monthly open conversation between artists, 
   makers, designers, coders, performers, learners and anyone interested in the 
   use of computing skills for artistic expression.
 baseurl: "/Stammtisch" # the subpath of your site, e.g. /blog
