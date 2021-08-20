@@ -1,0 +1,41 @@
+#!/usr/bin/fish
+
+set last (ls _posts/ | sort | tail -1)
+
+if test (count $argv) -eq 2
+  set mm $argv[2]
+  set yyyy $argv[1]
+  set firstFriday (cal $mm $yyyy | awk -v mm=$mm -v yyyy=$yyyy '/Fr/{getline;if(NF==1){getline;}printf("%04d-%02d-%02d",yyyy,mm,$(NF-1));}')
+  set lastNum (string sub --start 15 --length 3 $last | sed 's/^0*//')
+  set nextNum (printf "%03d" (calc "$lastNum + 1"))
+  set next "_posts/$firstFriday-ccs$nextNum.md"
+  set monthName (date -d {$yyyy}{$mm}01 "+%B")
+  set firstFridayShort (string sub --start 9 --length 2 $firstFriday | sed 's/^0*//')
+  switch $firstFridayShort
+    case 1
+      set nn "st"
+    case 2
+      set nn "nd"
+    case 3
+      set nn "rd"
+    case '*'
+      set nn "th"
+  end
+  echo "Last: $last"
+  
+  if test -f $next
+    echo "$next already exists"
+  else
+    touch $next
+    echo "$next created"
+    echo "---" >> $next
+    echo "img: \"$nextNum.jpg\"" >> $next
+    echo "---" >> $next
+    echo "" >> $next
+    echo "# $monthName $firstFridayShort$nn, Stammtisch #$nextNum" >> $next
+  end
+else
+  echo "Usage: addCCS year month"
+  echo "Last = $last"
+end
+
