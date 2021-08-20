@@ -32,7 +32,7 @@ if test (count $argv) -eq 2
     echo "img: \"$nextNum.jpg\"" >> $next
     echo "---" >> $next
     echo "" >> $next
-    echo "# $monthName $firstFridayShort$nn, Stammtisch #$nextNum" >> $next
+    echo "# **$monthName $firstFridayShort$nn, Stammtisch #$nextNum**" >> $next
   end
 else
   echo "Usage: addCCS year month"
