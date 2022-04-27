@@ -2,10 +2,7 @@
 
 The Creative Code Stammtisch is a monthly open conversation between artists, makers, designers, coders, performers, learners and anyone interested in the use of computing skills for artistic expression.
 
-We use Paper to document our meetups collaboratively in real time.
-We have 5 years of meetups in one looooong page, which has become unusably slow.
-
-What we are testing here is if we can use Paper to document only the current meetup, then move the content to GitHub, when the real time aspect is no longer necessary, but still anyone can submit pull requests to make changes.
+We use Etherpad to document our meetups collaboratively in real time. To avoid the document growing too heavy, we regularly move the notes taken during a meetup from that shared document to this repository in GitHub.
 
 How to update this page:
 
@@ -25,4 +22,3 @@ img: "NNN.jpg"
 The page will be built automatically using Jekyll and visible at
 
 [https://creativecodeberlin.github.io/Stammtisch/](https://creativecodeberlin.github.io/Stammtisch/)
-
