@@ -9,7 +9,7 @@ What we are testing here is if we can use Paper to document only the current mee
 
 How to update this page:
 
-1. Go to [etherpad](https://funprogramming.org/pad/p/ccs) and export to markdown replacing Creative-Code-Stammtisch.md found in this repo.
+1. Go to [etherpad](https://funprogramming.org/pad/p/ccs) and export the document to markdown.
 2. Open the downloaded file, cut the content that matches one month, and paste
    it as a new file with this name format: `_posts/YYYY-MM-DD-ccsNNN.md`.
 3. At the top of that file, add a header like this:
