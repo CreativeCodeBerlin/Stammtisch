@@ -1,0 +1,21 @@
+---
+---
+html{
+    --fg-1: #cb5955; 
+    --fg-2: #a33c3b; 
+   
+}
+body{
+    font-family: Comfortaa;
+}
+a{
+    color: var(--fg-1);
+    &:hover{
+        color: var(--fg-2);
+    }
+}
+svg{
+    path{
+        fill: var(--fg-1)
+    }
+}
