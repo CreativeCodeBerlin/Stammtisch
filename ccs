@@ -9,7 +9,7 @@ if test (count $argv) -eq 2
   set lastNum (string sub --start 15 --length 3 $last | sed 's/^0*//')
   set nextNum (printf "%03d" (calc "$lastNum + 1"))
   set next "_posts/$firstFriday-ccs$nextNum.md"
-  set monthName (date -d {$yyyy}{$mm}01 "+%B")
+  set monthName (LC_TIME=en_US.utf8 date -d {$yyyy}{$mm}01 "+%B")
   set firstFridayShort (string sub --start 9 --length 2 $firstFriday | sed 's/^0*//')
   switch $firstFridayShort
     case 1
