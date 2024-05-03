@@ -68,7 +68,6 @@
         
       </header>
       <section id="content">
-        <img id="posterimage" src="">
 
       {{ content }}
 
@@ -94,7 +93,7 @@
         var h1 = document.getElementById('content').getElementsByTagName('h1');
         if(h1.length == 1) {
           h1[0].insertAdjacentHTML('afterEnd', 
-            '<img src="/Stammtisch/assets/img/large/' + id + '.jpg">')
+            '<img src="/Stammtisch/assets/img/large/{{ page.img }}">')
         }
       }
     </script>
