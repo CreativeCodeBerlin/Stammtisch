@@ -93,7 +93,7 @@
         var h1 = document.getElementById('content').getElementsByTagName('h1');
         if(h1.length == 1) {
           h1[0].insertAdjacentHTML('afterEnd', 
-            '<img src="/Stammtisch/assets/img/large/{{ page.img }}">')
+            '<a href="/Stammtisch/assets/img/large/{{ page.img }}"><img src="/Stammtisch/assets/img/large/{{ page.img }}"></a>')
         }
       }
     </script>
