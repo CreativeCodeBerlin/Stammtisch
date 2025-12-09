@@ -1,21 +1,31 @@
 ---
 ---
-html{
+html {
     --fg-1: #cb5955; 
     --fg-2: #a33c3b; 
-   
 }
-body{
+
+body {
     font-family: Comfortaa;
 }
-a{
+
+a {
     color: var(--fg-1);
-    &:hover{
+    &:hover {
         color: var(--fg-2);
     }
 }
-svg{
-    path{
+
+svg {
+    path {
         fill: var(--fg-1)
     }
 }
+
+#content {
+  img {
+	  border-radius: 7px;
+  	margin-right: 2px;  
+  }
+}
+
