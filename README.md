@@ -1,3 +1,7 @@
+![PUNKT1](Screenshot%202026-04-04%20at%2001.26.33.png "PUNKT1")
+![PUNKT2](Screenshot%202026-04-04%20at%2011.52.26.png "PUNKT2")
+![PUNKT3](Screenshot%202026-04-04%20at%2012.41.23.png "PUNKT3")
+
 # Creative Code Stammtisch
 
 The Creative Code Stammtisch is a monthly open conversation between artists, makers, designers, coders, performers, learners and anyone interested in the use of computing skills for artistic expression.
